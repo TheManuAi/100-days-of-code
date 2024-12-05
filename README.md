@@ -1,2 +1,2 @@
 # 100-days-of-code
-Course by Dr. Angela Yu in Udemy 
+Course by Dr. Angela Yu on Udemy 
